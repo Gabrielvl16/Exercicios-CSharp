@@ -11,7 +11,7 @@ class Program
         // Exibe o comprimento da palavra
         Console.WriteLine("O comprimento da palavra é: " + palavra.Length);
         
-		Console.Write("Press any key to continue . . . ");
-		Console.ReadKey(true);
+	Console.Write("Press any key to continue . . . ");
+	Console.ReadKey(true);
     }
 }
