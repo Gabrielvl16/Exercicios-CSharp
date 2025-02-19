@@ -1,4 +1,4 @@
- using System;
+using System;
 
 class Program
 {
@@ -14,6 +14,6 @@ class Program
         Console.WriteLine(resposta);
         
         Console.Write("Press any key to continue . . . ");
-			Console.ReadKey(true);
+	Console.ReadKey(true);
     }
 }
